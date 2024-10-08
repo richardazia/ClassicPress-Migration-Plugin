@@ -47,9 +47,9 @@ msgstr ""
 msgid "Do you have feedback about this plugin, or about ClassicPress itself? Need help with something? We'd love to know what you think!"
 msgstr ""
 
-#. translators: 1: link with instructions to join our Forum, 2: link to join ClassicPress Slack
+#. translators: 1: link with instructions to join our Forum, 2: link to join ClassicPress Zulip
 #: lib/admin-page.php:213
-msgid "For support, suggestions for improvement, or general discussion about how the plugin works, visit us in our <a href=\"%1$s\">support forum</a> or <a href=\"%2$s\">Slack group</a>."
+msgid "For support, suggestions for improvement, or general discussion about how the plugin works, visit us in our <a href=\"%1$s\">support forum</a> or <a href=\"%2$s\">Zulip group</a>."
 msgstr ""
 
 #. translators: link to create a new GitHub issue for this plugin
